@@ -1,0 +1,15 @@
+[package]
+name = "aoc2023"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "day1_0"
+path = "src/day1/0.rs"
+
+[[bin]]
+name = "day1_1"
+path = "src/day1/1.rs"
+
+[dependencies]
+aho-corasick = "1.1.2"
