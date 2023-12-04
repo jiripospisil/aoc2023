@@ -27,6 +27,14 @@ path = "src/day3/0.rs"
 name = "day3_1"
 path = "src/day3/1.rs"
 
+[[bin]]
+name = "day4_0"
+path = "src/day4/0.rs"
+
+[[bin]]
+name = "day4_1"
+path = "src/day4/1.rs"
+
 [dependencies]
 aho-corasick = "1.1.2"
 itertools = "0.12.0"
